@@ -1,2 +1,3 @@
-# HELLO KIDS LMAO
-it would be awasome, cuz every answer inside the repo :)
+# What is this?
+1️⃣this is just my repository about my university assignment
+2️⃣you can do "fork-and-pull" workflow
